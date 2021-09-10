@@ -12,8 +12,8 @@
     </parent>
 
     <groupId>net.calm</groupId>
-    <artifactId>embryo-gen</artifactId>
-    <version>1.0.6</version>
+    <artifactId>synth-nuc-gen</artifactId>
+    <version>1.0.0</version>
 
     <build>
         <plugins>
@@ -41,7 +41,7 @@
     </build>
 
     <name>Embryo Generator</name>
-    <description>Simulated embryo generator</description>
+    <description>Synthetic Nuclei Generator</description>
     <url>https://github.com/djpbarry/Embryo-Generator</url>
     <inceptionYear>2020</inceptionYear>
     <organization>
@@ -105,8 +105,8 @@
     </ciManagement>
 
     <properties>
-        <package-name>net.calm.embryogen</package-name>
-        <main-class>net.calm.embryogen.image_simulator.Image_Simulator</main-class>
+        <package-name>net.calm.synthnucgen</package-name>
+        <main-class>net.calm.synthnucgen.image_simulator.Image_Simulator</main-class>
         <license.licenseName>bsd_2</license.licenseName>
         <license.copyrightOwners>Francis Crick Institute</license.copyrightOwners>
     </properties>

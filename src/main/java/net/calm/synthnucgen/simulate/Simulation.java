@@ -1,10 +1,10 @@
-package net.calm.embryogen.simulate;
+package net.calm.synthnucgen.simulate;
 
 import ij.IJ;
 import ij.ImageStack;
-import net.calm.embryogen.image_simulator.Nucleus;
-import net.calm.embryogen.intensity.IntensThread;
-import net.calm.embryogen.params.SimParams;
+import net.calm.synthnucgen.image_simulator.Nucleus;
+import net.calm.synthnucgen.intensity.IntensThread;
+import net.calm.synthnucgen.params.SimParams;
 
 import java.util.Random;
 

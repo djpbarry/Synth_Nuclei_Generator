@@ -1,8 +1,8 @@
-package net.calm.embryogen.intensity;
+package net.calm.synthnucgen.intensity;
 
 import ij.ImageStack;
-import net.calm.embryogen.image_simulator.Nucleus;
-import net.calm.embryogen.params.SimParams;
+import net.calm.synthnucgen.image_simulator.Nucleus;
+import net.calm.synthnucgen.params.SimParams;
 
 public class IntensThread extends Thread {
 

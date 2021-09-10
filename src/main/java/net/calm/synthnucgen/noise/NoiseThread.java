@@ -1,4 +1,4 @@
-package net.calm.embryogen.noise;
+package net.calm.synthnucgen.noise;
 
 import ij.ImageStack;
 import ij.process.ImageProcessor;

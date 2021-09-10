@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.calm.embryogen.image_simulator;
+package net.calm.synthnucgen.image_simulator;
 
 /**
  *

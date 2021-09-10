@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.calm.embryogen.image_simulator;
+package net.calm.synthnucgen.image_simulator;
 
 import ij.IJ;
 import ij.ImagePlus;
@@ -17,13 +17,13 @@ import ij.process.StackStatistics;
 import mcib3d.image3d.ImageHandler;
 import mcib3d.image3d.distanceMap3d.EDT;
 import mcib3d.image3d.regionGrowing.Watershed3D;
-import net.calm.embryogen.binary.BinaryProcessor;
-import net.calm.embryogen.generator.NucleusGenerator;
-import net.calm.embryogen.io.StackSaver;
-import net.calm.embryogen.noise.NoiseGenerator;
-import net.calm.embryogen.params.SimParams;
-import net.calm.embryogen.processor.StackProcessor;
-import net.calm.embryogen.simulate.Simulation;
+import net.calm.synthnucgen.binary.BinaryProcessor;
+import net.calm.synthnucgen.generator.NucleusGenerator;
+import net.calm.synthnucgen.io.StackSaver;
+import net.calm.synthnucgen.noise.NoiseGenerator;
+import net.calm.synthnucgen.params.SimParams;
+import net.calm.synthnucgen.processor.StackProcessor;
+import net.calm.synthnucgen.simulate.Simulation;
 import net.calm.iaclasslibrary.IO.DataWriter;
 import net.calm.iaclasslibrary.TimeAndDate.TimeAndDate;
 import net.calm.iaclasslibrary.UtilClasses.GenUtils;

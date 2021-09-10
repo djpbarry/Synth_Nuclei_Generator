@@ -1,4 +1,4 @@
-package net.calm.embryogen.params;
+package net.calm.synthnucgen.params;
 
 public class SimParams {
     private double simSizeX;

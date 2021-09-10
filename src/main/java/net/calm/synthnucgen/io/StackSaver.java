@@ -1,4 +1,4 @@
-package net.calm.embryogen.io;
+package net.calm.synthnucgen.io;
 
 import ij.IJ;
 import ij.ImagePlus;

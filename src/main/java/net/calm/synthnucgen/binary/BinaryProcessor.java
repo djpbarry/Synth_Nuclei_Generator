@@ -1,4 +1,4 @@
-package net.calm.embryogen.binary;
+package net.calm.synthnucgen.binary;
 
 import ij.ImagePlus;
 import ij.ImageStack;
@@ -7,8 +7,8 @@ import ij.process.ByteProcessor;
 import ij.process.ImageProcessor;
 import mcib3d.image3d.ImageHandler;
 import mcib3d.image3d.ImageInt;
-import net.calm.embryogen.image_simulator.Nucleus;
-import net.calm.embryogen.params.SimParams;
+import net.calm.synthnucgen.image_simulator.Nucleus;
+import net.calm.synthnucgen.params.SimParams;
 
 public class BinaryProcessor {
     private final SimParams params;

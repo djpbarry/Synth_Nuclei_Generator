@@ -1,7 +1,7 @@
-package net.calm.embryogen.generator;
+package net.calm.synthnucgen.generator;
 
-import net.calm.embryogen.image_simulator.Nucleus;
-import net.calm.embryogen.params.SimParams;
+import net.calm.synthnucgen.image_simulator.Nucleus;
+import net.calm.synthnucgen.params.SimParams;
 import net.calm.iaclasslibrary.TimeAndDate.TimeAndDate;
 
 import java.util.Random;

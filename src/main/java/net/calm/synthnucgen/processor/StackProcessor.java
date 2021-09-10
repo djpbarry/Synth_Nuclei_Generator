@@ -1,4 +1,4 @@
-package net.calm.embryogen.processor;
+package net.calm.synthnucgen.processor;
 
 import ij.IJ;
 import ij.ImagePlus;
@@ -7,7 +7,7 @@ import ij.measure.Calibration;
 import ij.plugin.Binner;
 import ij.plugin.SubstackMaker;
 import ij.process.ImageProcessor;
-import net.calm.embryogen.params.SimParams;
+import net.calm.synthnucgen.params.SimParams;
 
 public class StackProcessor {
 
